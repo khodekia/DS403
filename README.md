@@ -1,2 +1,2 @@
 # DS403
-Data Structures and Algorithms in C++
+Data Structures and way too many Algorithms in C++
